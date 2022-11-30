@@ -25,7 +25,7 @@ else{
 	dice = 2
 }
 if(args.rolls > 0){
-	rolls.args.rolls
+	rolls = args.rolls
 }
 else{
 	rolls = 1
