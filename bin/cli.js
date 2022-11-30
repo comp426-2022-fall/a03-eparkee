@@ -15,20 +15,11 @@ let rolls = 1
 if(args.sides > 0){
 	sides = args.sides
 }
-else {
-	sides = 6
-}
 if(args.dice > 0){
 	dice = args.dice
 }
-else{
-	dice = 2
-}
 if(args.rolls > 0){
 	rolls = args.rolls
-}
-else{
-	rolls = 1
 }
 
 //run the program from the command line
